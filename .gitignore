@@ -1,0 +1,4 @@
+config/config.local.php
+*.zip
+.DS_Store
+Thumbs.db
